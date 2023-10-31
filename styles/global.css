@@ -19,3 +19,9 @@ h1, h2 {
     font-family: "Anton", cursive;
     font-weight: normal;
 }
+h1 {
+    font-size: 110px;
+}
+h2 {
+    font-size: 30px;
+}
